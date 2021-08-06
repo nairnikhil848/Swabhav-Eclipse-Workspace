@@ -1,18 +1,6 @@
 package com.techlab.model;
 
-public class Infant implements IEmotionable,ISocialization{
-
-	@Override
-	public void depart() {
-		// TODO Auto-generated method stub
-		System.out.println("Departing.. Infant");
-	}
-
-	@Override
-	public void wish() {
-		// TODO Auto-generated method stub
-		System.out.println("Infant is Wishing");
-	}
+public class Infant implements IEmotionable{
 
 	@Override
 	public void cry() {
@@ -23,7 +11,7 @@ public class Infant implements IEmotionable,ISocialization{
 	@Override
 	public void laugh() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("Infant is laughing");
 	}
 
 }

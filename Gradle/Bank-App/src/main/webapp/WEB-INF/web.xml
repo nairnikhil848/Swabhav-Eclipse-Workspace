@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd" id="WebApp_ID">
+	<display-name>Bank-App</display-name>
+	<filter>
+		<description>
+		</description>
+		<display-name>LoggedInFilter</display-name>
+		<filter-name>LoggedInFilter</filter-name>
+		<filter-class>com.techlab.filters.LoggedInFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>LoggedInFilter</filter-name>
+		<url-pattern>/LoggedInFilter</url-pattern>
+	</filter-mapping>
+	<servlet>
+		<description>
+		</description>
+		<display-name>HashPasswordService</display-name>
+		<servlet-name>HashPasswordService</servlet-name>
+		<servlet-class>com.techlab.services.HashPasswordService</servlet-class>
+	</servlet>
+	<servlet>
+		<description>
+		</description>
+		<display-name>CSVController</display-name>
+		<servlet-name>CSVController</servlet-name>
+		<servlet-class>com.techlab.controllers.CSVController</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>HashPasswordService</servlet-name>
+		<url-pattern>/HashPasswordService</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>CSVController</servlet-name>
+		<url-pattern>/CSVController</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+</web-app>

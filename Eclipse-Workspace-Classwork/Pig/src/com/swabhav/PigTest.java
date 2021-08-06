@@ -1,5 +1,6 @@
 package com.swabhav;
 
+import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -155,4 +156,4 @@ class Theatre
     
 }
 
-}
+

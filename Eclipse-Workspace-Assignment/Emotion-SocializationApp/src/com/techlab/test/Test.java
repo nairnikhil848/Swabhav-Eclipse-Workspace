@@ -10,17 +10,21 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Man m1 = new Man();
-		printInfo(m1,m1);
+		printInfoEmo(m1);
+		printInfoSoc(m1);
+		
 		Infant i1 = new Infant();
-		printInfo(i1,i1);
+		printInfoEmo(i1);
 	}
 
-	private static void printInfo(IEmotionable emotion,ISocialization social) {
+	private static void printInfoEmo(IEmotionable emotion) {
 		// TODO Auto-generated method stub
 		emotion.cry();
+		emotion.laugh();
+	}
+	private static void printInfoSoc(ISocialization social) {
 		social.depart();
 		social.wish();
-		emotion.laugh();
 	}
 	
 }

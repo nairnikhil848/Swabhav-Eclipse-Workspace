@@ -1,6 +1,6 @@
 package com.techlab.model;
 
-public class Car extends IMovable{
+public class Car implements IMovable{
 
 	@Override
 	public void move() {

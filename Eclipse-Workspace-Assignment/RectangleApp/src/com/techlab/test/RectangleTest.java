@@ -34,7 +34,7 @@ public class RectangleTest {
 		for (RectangleConstructor rectangle: rect) 
 		{ 
 		    printInfo(rectangle);
-		    System.out.println("Object created at "+rectangle.hashCode())
+		    System.out.println("Object created at "+rectangle.hashCode());
 		}
 	}
 

@@ -17,19 +17,6 @@ public class AccountTest {
 		
 		
 		
-//		System.out.println(Account.getheadcount());
-			
-		// TODO Auto-generated method stub
-//		Account acc = new Account(25,"Nikhil", 2000);
-//		printInfo(acc);
-//		acc.withdraw(2300);
-//		if(acc.transFlag) {
-//			System.out.println("amount Withdrawal successfull\n");
-//			printInfo(acc);
-//		}
-//		else {
-//			System.out.println("Insufficient Funds\n");
-//		}
 
 	}
 

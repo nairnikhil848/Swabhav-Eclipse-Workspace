@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+  "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+  "http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+	<package name="main" extends="struts-default">
+
+		<interceptors>
+			<interceptor name="authentication"
+				class="com.techlab.interceptors.AuthorizationInterceptor"></interceptor>
+			<interceptor-stack name="authStack">
+				<interceptor-ref name="authentication"></interceptor-ref>
+				<interceptor-ref name="defaultStack"></interceptor-ref>
+			</interceptor-stack>
+		</interceptors>
+
+		<default-interceptor-ref name="authStack"></default-interceptor-ref>
+
+		<global-results>
+			<result name="login" type="redirect">login</result>
+		</global-results>
+
+
+
+		<action name="">
+			<result type="redirect">
+				home
+			</result>
+		</action>
+
+		<action name="home" class="com.techlab.actions.HomeAction">
+			<result name="success">
+				/views/home.jsp
+			</result>
+		</action>
+
+		<action name="register"
+			class="com.techlab.actions.RegisterAction">
+			<result name="success">
+				/views/register.jsp
+			</result>
+		</action>
+
+		<action name="doregister"
+			class="com.techlab.actions.RegisterAction" method="doregister">
+			<result name="success" type="redirect">
+				login
+			</result>
+			<result name="error">
+				/views/register.jsp
+			</result>
+		</action>
+
+
+		<action name="login" class="com.techlab.actions.LoginAction">
+			<result name="success">
+				/views/login.jsp
+			</result>
+		</action>
+
+		<action name="dologin" class="com.techlab.actions.LoginAction"
+			method="dologin">
+			<result name="success" type="redirectAction">
+				<param name="actionName">${#session['lastAction']}</param>
+			</result>
+			<result name="error">
+				/views/login.jsp
+			</result>
+			<result name="input">
+				/views/login.jsp
+			</result>
+		</action>
+
+		<action name="logout" class="com.techlab.actions.LogoutAction">
+			<result name="success" type="redirect">
+				home
+			</result>
+		</action>
+
+		<action name="passbook"
+			class="com.techlab.actions.PassbookAction">
+			<result name="success">
+				/views/passbook.jsp
+			</result>
+		</action>
+
+		<action name="transaction"
+			class="com.techlab.actions.TransactionsAction">
+			<result name="success">
+				/views/transactions.jsp
+			</result>
+		</action>
+
+
+		<action name="dotransaction"
+			class="com.techlab.actions.TransactionsAction" method="dotransaction">
+			<result name="success">
+				/views/home.jsp
+			</result>
+			<result name="error">
+				/views/transactions.jsp
+			</result>
+		</action>
+
+		<action name="download"
+			class="com.techlab.actions.DownloadCSVAction">
+			<result name="success" type="stream">
+				<param name="contentType">text/csv</param>
+				<param name="inputName">fileInputStream</param>
+				<param name="contentDisposition">attachment;filename="Passbook.csv"</param>
+				<param name="bufferSize">1024</param>
+			</result>
+		</action>
+
+	</package>
+</struts>

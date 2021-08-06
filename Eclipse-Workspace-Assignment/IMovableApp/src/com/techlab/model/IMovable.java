@@ -1,6 +1,6 @@
 package com.techlab.model;
 
-public abstract class IMovable {
+public interface IMovable {
 	
-	public abstract void move();
+	public void move();
 }

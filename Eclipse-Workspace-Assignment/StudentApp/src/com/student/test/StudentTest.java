@@ -11,7 +11,6 @@ public class StudentTest {
 		stud.setName("nikhil");
 		stud.setAge(22);
 		stud.setId(30);
-		
 		printInf(stud);
 	}
 
