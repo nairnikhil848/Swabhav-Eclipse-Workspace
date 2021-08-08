@@ -156,5 +156,8 @@ $RECYCLE.BIN/
 #ignored Js folder
 Js/
 
+#Ignore Server folder
+Servers/
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,java,eclipse
 '+
