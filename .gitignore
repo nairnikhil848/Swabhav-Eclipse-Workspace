@@ -84,7 +84,6 @@ local.properties
 .gradle
 build/
 
-
 # Ignore Gradle GUI config
 gradle-app.setting
 
@@ -99,6 +98,9 @@ gradle-app.setting
 
 ### Gradle Patch ###
 **/build/
+
+#Ignore Server folder
+Servers/
 
 # Eclipse Gradle plugin generated files
 # Eclipse Core
@@ -158,6 +160,5 @@ Js/
 
 #Ignore Server folder
 Servers/
-
 # End of https://www.toptal.com/developers/gitignore/api/windows,java,eclipse
 '+
