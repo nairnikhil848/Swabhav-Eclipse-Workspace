@@ -49,6 +49,37 @@
 
 ### Gradle
 
+- [X] [Bank App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Bank-App)
+- [X] [Bank Struts2 App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Bank-Struts-App)
+- [X] [Bank Struts2 Hibernate App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Bank-Struts-Hibernate-App)
+- [X] [CRUD Operations in Struts2 Spring App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/CRUD-Strut2-Spring-App)
+- [X] [Customer Order Linetiem Porduct Hibernate App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Customer-order-lineitem-product-hibernate)
+- [X] [Mail App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Mail)
+- [X] [Many to Many Mapping](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Many-to-ManyMapping)
+- [X] [Struts Spring App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Struts-Spring-App)
+- [X] [Student Json App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Student-Json-App)
+- [X] [Student STruts2 Spring Hibernate App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Student-struts2-spring-hibernate-app)
+- [X] [Taskify](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Taskify)
+- [X] [Welcome Gradle App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/Welcome-Gradle-App)
+- [X] [Basic Hibernate App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/basic-hibernate-app)
+- [X] [Basic Spring App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/basic-spring-app)
+- [X] [Gradle Welcome](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/gradle-welcome)
+- [X] [Login Captcha](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/login-Captcha)
+- [X] [One To Many Mapping App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/oneToManyMapping-app)
+- [X] [Spring Struts App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/spring-struts-app)
+- [X] [Struts App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/struts-app)
+- [X] [Struts Login App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/struts-login-app)
+- [X] [Struts Student App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/struts-student-app)
+- [X] [Struts Spring Hibernate App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Gradle/struts2-spring-hibernate-app)
+
 ### JDBC
 
 ### Servlets
+- [X] [Beer App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/BeerApp)
+- [X] [Cookie App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/CookieApphttps://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/LoginApp)
+- [X] [Hello World App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/HelloWorldApp)
+- [X] [Login App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/LoginApp)
+- [X] [State Counter](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/StateCounter)
+- [X] [Servlet Basic App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/servlet-basic-app)
+- [X] [Servlet Basic App v1](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/servlet-basic-app1)
+- [X] [Student MVC App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/student-mvc-app)
