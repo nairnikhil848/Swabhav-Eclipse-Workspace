@@ -34,7 +34,6 @@
 - [X] [Guitar (High Cohension)](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Assignment/Guitar(high%20Cohension)/src/com/techlab)
 - [X] [Guitar App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Assignment/GuitarApp/src/com/techlab)
 - [X] [Holly and Bruce's Dog Door App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Assignment/Holly%20and%20Bruce%E2%80%99s%20Dog%20Door/src/com/techlab)
-
 - [X] [John and Tex'd Dog Door](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Assignment/John%20and%20Tex%E2%80%99s%20Dog%20Door/src/com/techlab)
 - [X] [Kristen And Bitsie's Doog Door](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Assignment/Kristen%20and%20Bitsie%E2%80%99s%20Dog%20Door/src/com/techlab)
 - [X] [The Ultimate Dog Door](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Assignment/The%20Ultimate%20Dog%20Door%2C%20version%203.0/src/com/techlab)
@@ -43,7 +42,22 @@
 
 ### Classwork
 
-
+- [X] [Account Counter App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/Account-counter-app)
+- [X] [Account Inheritance App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/Account-inheritanceApp)
+- [X] [Account App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/AccountApp)
+- [X] [Accout Checked Exception](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/AccountCheckedExceptionApp/src/com/techlab)
+- [X] [DIP violation App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/DIP-solutionApp/src/com/techlab)
+- [X] [DIP solution App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/DIP-violationapp/src/com/techlab)
+- [X] [Has A Relationship](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/Has-a-relationship/src)
+- [X] [PIG App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/Pig)
+- [X] [Tic Tac Toe ](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/Tic%20Tac%20Toe/src/com/techlab)
+- [X] [Tic Tac Toe (Swabhav)](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/Tic-tac-Toe(Swabhav)/src)
+- [X] [Collection App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/collection-app/src/com/techlab)
+- [X] [Custom Annotation App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/custom-annotation-app/src/com/techlab/annotation)
+- [X] [ICrudable App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/iCrudable-interfaceApp)
+- [X] [Inheritance App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/inheritance-app)
+- [X] [Inheritance Constructor App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/inheritance-constructor-app)
+- [X] [Student Comparable App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Eclipse-Workspace-Classwork/student-comparable-app/src/com)
 
 ### DesignPattern
 
