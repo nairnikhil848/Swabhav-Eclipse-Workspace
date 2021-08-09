@@ -74,6 +74,13 @@
 
 ### JDBC
 
+- [X] [Connection Test](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/blob/master/JDBC/connection-app/src/com/techlab/db/test/ConnectionTest.java)
+- [X] [Statement Test](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/blob/master/JDBC/connection-app/src/com/techlab/db/test/StatementTest.java)
+- [X] [Transaction Test](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/blob/master/JDBC/connection-app/src/com/techlab/db/test/TransactionTest.java)
+- [X] [Injection Test](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/blob/master/JDBC/sqlinjection-app/src/com/techlab/injection/InjectionTest.java)
+- [X] [Prepared Statement Test](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/blob/master/JDBC/sqlinjection-app/src/com/techlab/injection/PreparedStmtTest.java)
+
+
 ### Servlets
 - [X] [Beer App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/BeerApp)
 - [X] [Cookie App](https://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/CookieApphttps://github.com/nairnikhil848/Swabhav-Eclipse-Workspace/tree/master/Servlets/LoginApp)
